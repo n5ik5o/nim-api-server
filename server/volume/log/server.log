@@ -1,0 +1,5 @@
+2019-02-26T01:08:02 INFO Jester is making jokes at http://0.0.0.0:5000
+2019-02-26T01:08:12 DEBUG GET /
+2019-02-26T01:08:12 DEBUG   200 OK {"content-type": @["text/html;charset=utf-8"]}
+2019-02-26T01:08:14 DEBUG GET /favicon.ico
+2019-02-26T01:08:14 DEBUG   404 Not Found {"content-type": @["text/html;charset=utf-8"]}
